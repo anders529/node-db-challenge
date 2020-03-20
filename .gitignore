@@ -81,3 +81,8 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/node-db-challenge.iml
+/.idea/vcs.xml
